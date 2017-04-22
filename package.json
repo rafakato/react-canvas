@@ -41,8 +41,10 @@
     "react": "^15.0.0"
   },
   "dependencies": {
+    "create-react-class": "^15.5.2",
     "fbjs": "^0.8.8",
     "linebreak": "^0.3.0",
+    "prop-types": "^15.5.8",
     "scroller": "git://github.com/mjohnston/scroller"
   }
 }
